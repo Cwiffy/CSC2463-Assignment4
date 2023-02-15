@@ -92,7 +92,7 @@ function draw() {
       fill(255);
       textSize(50);
       textAlign(CENTER);
-      text("Cyclops Game",200,200);
+      text("Buggy Game",200,200);
       textSize(30);
       text("Press Any Key to Start",200,300);
       break;
